@@ -1,0 +1,11 @@
+.item {
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    border: 1px solid black;
+}
+.menuIcons {
+    width: 20px;
+    height: 20px;
+    padding-right: 10px;
+}
