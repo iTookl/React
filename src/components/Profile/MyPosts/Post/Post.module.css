@@ -1,0 +1,33 @@
+/* .post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+    border: 1px solid black;
+    width: 200px;
+    height: 150px;
+}
+.likes {
+    font-size: smaller ;
+}
+
+.postText {
+    font-size: medium;
+} */
+
+
+.postProfileImage {
+    grid-area: img;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+.post {
+    display: grid;
+    grid-template-areas: 
+    "img post"
+    "img post";
+    align-items: center;
+    gap: 15px;
+}
+

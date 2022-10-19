@@ -1,0 +1,19 @@
+.item {
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    font-size: small;
+    height: 20px;
+}
+.item:hover {
+    background-color: #e0e0e0;
+}
+.menuIcons {
+    width: 15px;
+    height: 15px;
+    padding-right: 10px;
+}
+.itemLink {
+    text-decoration: none;
+    color: black;    
+}

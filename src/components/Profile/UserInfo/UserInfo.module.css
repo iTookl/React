@@ -1,0 +1,34 @@
+.userInfoWrap {
+    display: grid;
+    justify-items: center;
+}
+
+
+
+
+
+
+
+
+
+/* .descriptionProfile {
+    display: flex;
+    width: 90%;    
+}
+.profileImageWrap {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+}
+.profileImage {
+    position: relative;
+    bottom: 120px;
+    left:25px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border: 5px solid white;
+}
+.profileBackgroundAndProfileImg {
+    width: 100%;
+} */
